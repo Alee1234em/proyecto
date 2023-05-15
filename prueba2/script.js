@@ -7,7 +7,7 @@ function login(user,password){
         alert("Usuario no encontrado")
     }
 }
-
+console.log("drtgyjiko")
 btn.addEventListener("click",e=>{
     e.preventDefault()
     let user = document.getElementById("nombre")
